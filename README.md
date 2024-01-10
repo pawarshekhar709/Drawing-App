@@ -19,11 +19,15 @@ The project utilizes the following technologies:
 - Clear button to erase the entire canvas.
 - User-friendly interface for drawing.
 
-## Author
+## Credits
 
-This Drawing App is created and maintained by **Shekhar Pawar**.
-
-- GitHub: [pawarshekhar709](https://github.com/pawarshekhar709)
+- **Author:** Shekhar Pawar
+- **Social Media:**
+  - [Facebook](https://www.facebook.com/pawar.shekhar.58)
+  - [Twitter](https://twitter.com/Shekharpawar709?s=08)
+  - [Instagram](https://instagram.com/shekharpawar__?igshid=cpaihz24m5pw)
+  - [LinkedIn](https://www.linkedin.com/in/shekhar-pawar-80006a1a9)
+  - [GitHub](https://www.github.com/pawarshekhar709?hr_r=1)
 
 ## How to Use
 
