@@ -1,15 +1,5 @@
 
 
-- HTML5
-- CSS3
-- JavaScript
-
-## Features
-
-- Brush size adjustment with increase and decrease buttons.
-- Color selection using a color input element.
-- Clear button to erase the entire canvas.
-- User-friendly interface for drawing.
 
 ## Credits
 
