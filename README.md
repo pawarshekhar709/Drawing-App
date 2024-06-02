@@ -1,4 +1,10 @@
+# Drawing App
 
+## Overview
+
+This Drawing App is a simple web application created by Shekhar Pawar. The app allows users to draw on a canvas with various tools and settings. It provides features such as changing the brush size, selecting colors, and clearing the canvas.
+
+## Technology Used
 
 The project utilizes the following technologies:
 
